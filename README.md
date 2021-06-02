@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kmargana/kmargana/_apis/build/status/kmargana-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/kmargana/kmargana/_build/latest?definitionId=5&branchName=master)
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
